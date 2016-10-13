@@ -1,6 +1,8 @@
-<h1>Instructor Resources</h1>
+#Instructor Resources
 
-#Materials for our introductory courses, spanning HTML5, CSS, and JavaScript.
+<body>
+Materials for our introductory courses, spanning HTML5, CSS, and JavaScript.
 <hr>
 
 
+</body>
