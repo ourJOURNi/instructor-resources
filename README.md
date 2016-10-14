@@ -14,9 +14,11 @@ There are many ways you can contribute to our curriculum, and we thank you for p
 
 Here's how you can contirbute:
 
-1. Fork our repository (repo)
+1. Fork our repo
 2. Make updates
 3. Submit a pull request
+
+Our organizers will review your updates and if they are great (we are sure they will be) and align with our methodology, we'll merge it into the master. 
 
 
 <h3>Interested in Teaching</h3>
