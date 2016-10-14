@@ -2,11 +2,14 @@
 
 <body>
 Materials for our introductory courses, spanning HTML5, CSS, and JavaScript.
-<hr>
 
-<h2>Curriculum Development</h2>
 
-<h2>Interested in Teaching</h2>
+<h3>Curriculum Development</h3>
+
+Here's how you can contirbute:
+
+
+<h3>Interested in Teaching</h3>
 Are you interested in teaching?
 
 
